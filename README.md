@@ -84,10 +84,18 @@
 ### 📊 GitHub Activity & Real-Time Metrics
 
 <div align="center">
-  <!-- Live GitHub Activity Graph across all past commits -->
-  <a href="https://github.com/mritunjay065">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mritunjay065&theme=tokyo-night&bg_color=121212&color=00f2fe&line=ff6b35&point=00f2fe&area=true&hide_border=true" width="97%" alt="Mritunjay's Commit Activity Graph" />
-  </a>
+  <table border="0">
+    <tr>
+      <td valign="top" width="50%">
+        <!-- All-time commit stats & metrics -->
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=mritunjay065&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&bg_color=121212&title_color=00f2fe&icon_color=00f2fe&text_color=e2e8f0" width="100%" alt="GitHub Stats" />
+      </td>
+      <td valign="top" width="50%">
+        <!-- Most used languages across repos -->
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mritunjay065&layout=compact&theme=tokyonight&hide_border=true&bg_color=121212&title_color=00f2fe&text_color=e2e8f0" width="100%" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
@@ -95,13 +103,6 @@
 <div align="center">
   <!-- Dynamic GitHub Streak Tracker -->
   <img src="https://streak-stats.demolab.com?user=mritunjay065&theme=tokyonight&hide_border=true&background=121212&stroke=00f2fe&ring=00f2fe&fire=ff6b35&currStreakNum=00f2fe&sideNums=00f2fe&dates=e2e8f0" width="97%" alt="GitHub Streak Stats" />
-</div>
-
-<br/>
-
-<div align="center">
-  <!-- Profile Summary Metrics -->
-  <img src="https://github-profile-trophy.vercel.app/?username=mritunjay065&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" width="97%" />
 </div>
 
 ---
