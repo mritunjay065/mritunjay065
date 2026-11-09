@@ -22,6 +22,7 @@
 - 🎓 **Undergraduate:** B.Tech in Computer Science & Engineering (AIML) at **Manipal University Jaipur** (`CGPA: 8.42`).
 - 💡 **Innovation:** Published Indian Patent Holder for *AI-Based System and Device for Personalized Nutrition and Predictive Food Safety Assessment* (Intellectual Property Office, Govt. of India).
 - 🏆 **Achievements:** **Silver Medalist & Top 100 Finalist** at ThinkStartup Ideathon 2025 (IIT Delhi) among 16,000+ teams.
+- 💼 **Experience:** AI & ML Research Intern at **Indian Institute of Computing and Technology (IICT)**, New Delhi (`Cert No: IICT/2026/20008983`) & Frontend Developer at TechLearn Solutions.
 - 🔭 **Current Focus:** Deep Learning, Post-Quantum Cryptographic Remediations (NIST FIPS 203/204), Explainable AI (SHAP/LIME), Computer Vision, and High-Throughput Web Microservices.
 - 💬 **Ask me about:** C++, Python, PyTorch, React, Computer Vision, AppSec, and Full-Stack Engineering.
 
