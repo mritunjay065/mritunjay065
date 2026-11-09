@@ -81,15 +81,38 @@
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### 📊 GitHub Activity & Real-Time Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mritunjay065&show_icons=true&theme=tokyonight&hide_border=true&bg_color=121212&title_color=00f2fe&icon_color=ff6b35&text_color=e2e8f0" alt="Mritunjay's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mritunjay065&layout=compact&theme=tokyonight&hide_border=true&bg_color=121212&title_color=00f2fe&text_color=e2e8f0" alt="Top Languages" width="48%" />
+  <!-- Live GitHub Activity Graph across all past commits -->
+  <a href="https://github.com/mritunjay065">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mritunjay065&theme=tokyo-night&bg_color=121212&color=00f2fe&line=ff6b35&point=00f2fe&area=true&hide_border=true" width="97%" alt="Mritunjay's Commit Activity Graph" />
+  </a>
 </div>
 
-<div align="center" style="margin-top: 15px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mritunjay065&theme=tokyonight&hide_border=true&background=121212&stroke=00f2fe&ring=00f2fe&fire=ff6b35&currStreakNum=00f2fe" alt="GitHub Streak" width="97%" />
+<br/>
+
+<div align="center">
+  <!-- Dynamic GitHub Streak Tracker -->
+  <img src="https://streak-stats.demolab.com?user=mritunjay065&theme=tokyonight&hide_border=true&background=121212&stroke=00f2fe&ring=00f2fe&fire=ff6b35&currStreakNum=00f2fe&sideNums=00f2fe&dates=e2e8f0" width="97%" alt="GitHub Streak Stats" />
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- Profile Summary Metrics -->
+  <img src="https://github-profile-trophy.vercel.app/?username=mritunjay065&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" width="97%" />
+</div>
+
+---
+
+### ☕ Support My Work
+
+<div align="center">
+  <p>If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/tea? 🥺</p>
+  <a href="https://www.buymeacoffee.com/mritunjay065" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150">
+  </a>
 </div>
 
 ---
